@@ -1,6 +1,6 @@
-# Sample Hardhat Project
+# Initial Coin Offering (ICO) Dapp
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Now it's time for you to launch a token for fALCON Devs. Let's call the token Falcon Dev Token. We'll give this token out for free to all our NFT holders, and let other people buy them for ETH.
 
 Try running some of the following tasks:
 
